@@ -2,11 +2,11 @@
 
 COS 426 Final Project: Riya Gandhi, Michelle Huang, Aditya Mehta
 
-Writeup: <insert link>
+Writeup: https://drive.google.com/file/d/1s-0YpGixZkDUTv24jdpUS75XYd-_FZ9y/view?usp=sharing
 
 Demo video: https://drive.google.com/file/d/1GLO9Kcc1MWEcvp31qRlib1NX6HzC2bAy/view?usp=sharing
 
-Online demo: <insert link>
+Online demo: https://mhuang412.github.io/raccoon-rush
 
 🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝🦝
 
