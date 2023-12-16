@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ceviche+One&family=Orbitron:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz@1,9..40&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
+#coinscollected {
+    position: absolute;
+    width: 100%;
+    left: 15px;
+    top: 15px;
+    text-align: center;
+    z-index: 100;
+    display: block;
+}
+
+#coinscollected h1 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 30px;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    text-align: left;
+}
+
+#title-container {
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+    min-width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+}
+
+#title-container h1 {
+    font-family: 'Press Start 2P' !important;
+    font-size: 55px;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    text-shadow: 5px 5px #17183b; 
+    text-align: center;
+}
+
+table {
+    font-family: 'DM Sans', sans-serif;
+    font-style: italic;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+p {
+    font-family: 'Open Sans' !important;
+    font-style: italic;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+
+#instructions-container h1,
+#game-over-container h1 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 3vw;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    text-shadow: 3px 3px #4278f5;
+    text-align: center;
+}
+
+#game-over-container h1 {
+    font-size: 4vw;
+    text-shadow: 3px 3px #D1111A;
+}
+
+#game-over-container p {
+    margin: 0;
+    padding: 2px;
+}
+
+#instructions-container {
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.75);
+    width: 40vw;
+    height: 45vh;
+    position: absolute;
+    top: 27vh;
+    left: 28vw;
+    padding: 2vw;
+    font-size: 17px;
+}
+
+#game-over-container {
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.75);
+    width: 38vw;
+    height: 39vh;
+    position: absolute;
+    top: 27vh;
+    left: 28vw;
+    padding: 2vw;
+    font-size: 25px;
+}
+
